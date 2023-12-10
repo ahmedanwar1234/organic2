@@ -5,7 +5,6 @@
 <script>
 	import Landing10 from './../../components/Landing10/Landing10.svelte';
 	import  Twiter  from '$lib/images/footer/Twiter.png';
-	import  insta  from '$lib/images/footer/insta.png';
 	import  fb  from '$lib/images/footer/Fb.png';
     export let data;
    let teams=data.teams
@@ -51,7 +50,6 @@
                 
                               <div class=" flex  gap-x-2 ">
                                 <a href="/"><img src={fb} alt=""></a>
-                                <a href="/"><img src={insta} alt=""></a>
                                 <a href="/"><img src={Twiter} alt=""></a>
                               </div>
             </div>

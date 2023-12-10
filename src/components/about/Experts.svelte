@@ -1,5 +1,4 @@
 <script>
-    import insta from '$lib/images/footer/insta.png'
 import fb from '$lib/images/footer/Fb.png'
 import Prinst from '$lib/images/footer/Pintrest.png'
 import Twiter from '$lib/images/footer/Twiter.png'
@@ -34,7 +33,6 @@ import Twiter from '$lib/images/footer/Twiter.png'
                   
                                 <div class=" flex  gap-x-2 ">
                                   <a href="/"><img src={fb} alt=""></a>
-                                  <a href="/"><img src={insta} alt=""></a>
                                   <a href="/"><img src={Twiter} alt=""></a>
                                 </div>
               </div>

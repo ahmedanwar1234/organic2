@@ -1,6 +1,5 @@
 <script>
     import logo  from '$lib/images/Logo.png';
-import insta from '$lib/images/footer/insta.png'
 import fb from '$lib/images/footer/Fb.png'
 import Prinst from '$lib/images/footer/Pintrest.png'
 import Twiter from '$lib/images/footer/Twiter.png'
@@ -42,9 +41,7 @@ import Twiter from '$lib/images/footer/Twiter.png'
         Lorem Ipsum simply dummy text of the printing </p>
 
         <div class=" flex gap-x-4 mt-10">
-            <div class=" bg-[#dbf8e3] p-5 rounded-full">
-                <img src={insta} alt="">
-            </div>
+           
             <div class=" bg-[#dbf8e3] p-5 rounded-full">
                 <img src={fb} alt="">
             </div>
