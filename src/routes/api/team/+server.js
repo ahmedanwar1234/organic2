@@ -10,7 +10,7 @@ export function GET({ request }) {
 
         {
     
-            image:"/src/lib/images/about/team1.jpg",
+            image:"/src/lib/images/about/abteam1.jpg",
             name:'Giovani Bacardo',
             job:"Farmer",
             
@@ -39,7 +39,7 @@ export function GET({ request }) {
   const  teams=[
         {
     
-            image:"/src/lib/images/about/team1.jpg",
+            image:"/src/lib/images/about/abteam1.jpg",
             name:'Giovani Bacardo',
             job:"Farmer",
             
