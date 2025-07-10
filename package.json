@@ -11,7 +11,6 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-netlify": "^2.0.0",
 		  "@sveltejs/adapter-vercel": "^2.0.0",
 		"@fontsource/fira-mono": "^4.5.10",
 		"@neoconfetti/svelte": "^1.0.0",
